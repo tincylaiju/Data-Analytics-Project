@@ -9,7 +9,6 @@ This project performs  Data Analysis on an Airline Passenger Satisfaction datase
 - **Rows:** 25,976
 - **Columns:** 24
 
-
 ##  Tools & Libraries
 - Python
 - Pandas
@@ -26,11 +25,7 @@ This project performs  Data Analysis on an Airline Passenger Satisfaction datase
 - Travel Class & Customer Type Analysis
 - Delay Analysis
 - Service Rating Analysis
+- Satisfaction Analysis
 - Business Insights & Recommendations
 
-##  Key Insights
-- Business Class passengers have the highest satisfaction levels.
-- Loyal customers are more satisfied than disloyal customers.
-- Flight delays negatively impact customer satisfaction.
-- Inflight Wi-Fi received comparatively lower ratings than other services.
-- Service quality and travel class are major factors influencing passenger satisfaction.
+
