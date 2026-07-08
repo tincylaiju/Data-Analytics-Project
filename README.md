@@ -18,14 +18,10 @@ This project performs  Data Analysis on an Airline Passenger Satisfaction datase
 - Plotly
 - Jupyter Notebook
 
-##  Analysis Includes
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer Demographics Analysis
-- Travel Class & Customer Type Analysis
-- Delay Analysis
-- Service Rating Analysis
-- Satisfaction Analysis
-- Business Insights & Recommendations
-
-
+##  Tasks Includes
+- Data Laoding and Initial Overview
+- Data Preprocessing
+- Exploratory Data Analysis
+- Visualizations
+- Insights
+- Conclusion and Recommendations
