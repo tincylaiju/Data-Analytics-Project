@@ -19,7 +19,7 @@ This project performs  Data Analysis on an Airline Passenger Satisfaction datase
 - Jupyter Notebook
 
 ##  Tasks Includes
-- Data Laoding and Initial Overview
+- Data Loading and Initial Overview
 - Data Preprocessing
 - Exploratory Data Analysis
 - Visualizations
